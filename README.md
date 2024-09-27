@@ -149,7 +149,7 @@ services:
 docker-compose up -d
 ```
 
----
+
 
 ### 5. 데이터 복원 확인
 
